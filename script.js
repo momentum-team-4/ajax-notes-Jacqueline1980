@@ -30,7 +30,7 @@ window.addEventListener('load', function () {
         div.textContent = recipeCard
         newNoteEl.appendChild(card)
 
-        //note sure if below is necessary
+        //note sure if below is necessary (tried to get the delete button working)
         //const bodyEl = document.createElement('writing');
         // div.textContent = newNote
         // newNoteEl.appendChild(writing)
