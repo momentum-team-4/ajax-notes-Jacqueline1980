@@ -1,0 +1,43 @@
+* {
+    font-family: fantasy;
+    margin: 0rem;
+    padding: 0rem;
+}
+body {
+    background-image: url("clipart2540022.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+  
+}
+h1 {
+    margin: 1rem;
+    padding: 0rem;
+    font-family: fantasy;
+    color: mistyrose;
+    margin-left: 36%;
+}
+
+textarea {
+    border-color: cornflowerblue;
+    background-color: cornsilk;
+    outline-style: double;
+    display: inline-flex;
+    flex-wrap: row wrap;
+}
+
+.image {
+    position: static;
+    width: 60%;
+    height: 60%;
+}
+button {
+    text-align: center;
+    padding: .5rem;
+    background-color: mistyrose;
+    align-self: start;
+    margin-left: 10%;
+}
+
+
+
