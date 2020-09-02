@@ -6,16 +6,15 @@
 body {
     background-image: url("clipart2540022.png");
     background-repeat: no-repeat;
-    background-position: center;
-
-  
+    background-size: contain;
+    background-position: center;  
 }
 h1 {
     margin: 1rem;
     padding: 0rem;
     font-family: fantasy;
-    color: mistyrose;
-    margin-left: 36%;
+    color: palevioletred;
+    margin-left: 20%;
 }
 
 textarea {
@@ -36,7 +35,7 @@ button {
     padding: .5rem;
     background-color: mistyrose;
     align-self: start;
-    margin-left: 10%;
+
 }
 
 
